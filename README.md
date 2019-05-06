@@ -11,17 +11,31 @@ National Brain Mapping lab(NBML), Tehran, Iran
 5 May 2019
 
 ## Organizer:
-Majid Saberi(NBML, SBU)
+Majid Saberi (National Brain Mapping Lab, Shahid Beheshti University)
+
+## Lecturers:
+Alireza Vafaei (Institute for Research in Fundumental Sciences)  <br/>
+Reza Khosrowabadi (Shahid Beheshti University)  <br/>
+Saeed-Reza Kherad-Pisheh (Shahid Beheshti University)  <br/>
+Sara Aghvami (University of Tehran)
 
 ## Lectures: 
-An introduction to Linux(Alireza Vafaei, IPM) <br/>
-Theory of parallel processing(Alireza Vafaei, IPM) <br/>
-Graphical based parallel processing(Saeed-Reza Kherad-Pisheh, SBU) <br/>
-Parallel processing in deep learning(Saeed-Reza Kherad-Pisheh, SBU) <br/>
-Parallel processing in neurostimulation(Sara Aghvami, UT) <br/>
-Parallel processing in neuroimaging(Reza Khosrowababid, Majid Saberi, SBU)
+An introduction to Linux (Alireza Vafaei) <br/>
+Theory of parallel processing (Alireza Vafaei) <br/>
+Graphical based parallel processing (Saeed-Reza Kherad-Pisheh) <br/>
+Parallel processing in deep learning (Saeed-Reza Kherad-Pisheh) <br/>
+Parallel processing in neurostimulation (Sara Aghvami) <br/>
+Parallel processing in neuroimaging (Reza Khosrowababid, Majid Saberi)
 
 ## Participants:
 Ali Yousefian, Ali-Akbar Attari, Ali-Reza Kheir-Abadi, Behrouz Nobakhsh, Behzad Mehrzad, Forough Najafi, Hengameh Marzbani, Mohammad-Ali Kar-Andish
 , Mohammad-Rasoul Parsaeian, Mohammad-Sajad Marvi, Mojtaba Hajian, Narges Sadegh-Beigi, Rouzbeh Fakhari, Sepideh Khonayveh, Sepideh Rezaei
 , Shirin Mohamadian, Soheil Zarei, Vesal Moayed, Zakie Hassan-Zadeh
+
+
+
+
+
+## Poster:
+
+![logo](https://github.com/majidsaberi/1st-HPCinNS/blob/master/poster.jpeg)
