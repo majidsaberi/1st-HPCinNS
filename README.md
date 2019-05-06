@@ -5,7 +5,7 @@
 In this one day workshop, participants became acquainted with the concept of parallel processing. They learned to use the Linux command line and NBML computational state of the art in a hands-on approach. Lectures also explained some application of HPC in computational neuroscience. We conducted the workshop as an introductory for the next comprehensive events. 
 
 ## Location:
-National Brain Mapping lab(NBML), Tehran, Iran
+National Brain Mapping lab (NBML), Tehran, Iran
 
 ## Date:
 5 May 2019
@@ -14,7 +14,7 @@ National Brain Mapping lab(NBML), Tehran, Iran
 Majid Saberi (National Brain Mapping Lab, Shahid Beheshti University)
 
 ## Lecturers:
-Alireza Vafaei (Institute for Research in Fundumental Sciences)  <br/>
+Alireza Vafaei (Institute for Research in Fundamental Sciences)  <br/>
 Reza Khosrowabadi (Shahid Beheshti University)  <br/>
 Saeed-Reza Kherad-Pisheh (Shahid Beheshti University)  <br/>
 Sara Aghvami (University of Tehran)
