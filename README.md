@@ -32,9 +32,8 @@ Ali Yousefian, Ali-Akbar Attari, Ali-Reza Kheir-Abadi, Behrouz Nobakhsh, Behzad 
 , Mohammad-Rasoul Parsaeian, Mohammad-Sajad Marvi, Mojtaba Hajian, Narges Sadegh-Beigi, Rouzbeh Fakhari, Sepideh Khonayveh, Sepideh Rezaei
 , Shirin Mohamadian, Soheil Zarei, Vesal Moayed, Zakie Hassan-Zadeh
 
-
-
-
+## Webpage:
+https://nbml.ir/FA/workshops/949978
 
 ## Poster:
 
