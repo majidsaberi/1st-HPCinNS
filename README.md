@@ -14,7 +14,7 @@ National Brain Mapping lab (NBML), Tehran, Iran
 Majid Saberi (National Brain Mapping Lab, Shahid Beheshti University)
 
 ## Lecturers:
-Alireza Vafaei (Institute for Research in Fundamental Sciences)  <br/>
+[Alireza Vafaei](https://github.com/vafaei-ar) (Institute for Research in Fundamental Sciences)  <br/>
 Reza Khosrowabadi (Shahid Beheshti University)  <br/>
 Saeed-Reza Kherad-Pisheh (Shahid Beheshti University)  <br/>
 Sara Aghvami (University of Tehran)
