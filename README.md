@@ -36,7 +36,7 @@ Ali Yousefian, Ali-Akbar Attari, Ali-Reza Kheir-Abadi, Behrouz Nobakhsh, Behzad 
 https://nbml.ir/FA/workshops/949978
 
 ## Discussion Forum:
-To discuss on the topic join to our Telegram group:<br/>
+To discuss on the topic, please join our Telegram group:<br/>
 https://t.me/joinchat/B3cklxd7S6Ui8uGKwktjjw
 
 ## Poster:
