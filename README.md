@@ -21,11 +21,11 @@ Sara Aghvami (University of Tehran)
 
 ## Lectures: 
 An introduction to Linux (Alireza Vafaei) ([slide](https://github.com/majidsaberi/1st-HPCinNS/blob/master/lectures/2-vafaei-linux.pdf), [voice1](https://github.com/majidsaberi/1st-HPCinNS/blob/master/voices/vafaei-linux-intro.mp3), [voice2](https://github.com/majidsaberi/1st-HPCinNS/blob/master/voices/vafaei-linux-practical.mp3))  <br/>
-Theory of parallel processing (Alireza Vafaei) <br/>
-Graphical based parallel processing (Saeed-Reza Kherad-Pisheh) <br/>
-Parallel processing in deep learning (Saeed-Reza Kherad-Pisheh) <br/>
-Parallel processing in neurostimulation (Sara Aghvami) <br/>
-Parallel processing in neuroimaging (Reza Khosrowababid, Majid Saberi)
+Theory of parallel processing (Alireza Vafaei)  ([slide](https://github.com/majidsaberi/1st-HPCinNS/blob/master/lectures/3-vafaei-parallel-processing.pdf), [voice](https://github.com/majidsaberi/1st-HPCinNS/blob/master/voices/vafaei-parrallelprocessing.mp3))  <br/>
+Graphical based parallel processing (Saeed-Reza Kherad-Pisheh) ([slide](https://github.com/majidsaberi/1st-HPCinNS/blob/master/lectures/5-kheradpisheh-GPU-deeplearning.pdf), [voice](https://github.com/majidsaberi/1st-HPCinNS/blob/master/voices/kheradpisheh-GPU-deeplearning.mp3))  <br/>
+Parallel processing in deep learning (Saeed-Reza Kherad-Pisheh) ([slide](https://github.com/majidsaberi/1st-HPCinNS/blob/master/lectures/5-kheradpisheh-GPU-deeplearning.pdf), [voice](https://github.com/majidsaberi/1st-HPCinNS/blob/master/voices/kheradpisheh-GPU-deeplearning.mp3))  <br/>
+Parallel processing in neurostimulation (Sara Aghvami) ([slide](https://github.com/majidsaberi/1st-HPCinNS/blob/master/lectures/4-aghvami-neurosimulation.pdf), [voice](https://github.com/majidsaberi/1st-HPCinNS/blob/master/voices/aghvami-neurosimulation.mp3))  <br/>
+Parallel processing in neuroimaging (Reza Khosrowababid, Majid Saberi) ([slide](https://github.com/majidsaberi/1st-HPCinNS/blob/master/lectures/6-khosrowababdi-neuroimaging.pdf), [voice1](https://github.com/majidsaberi/1st-HPCinNS/blob/master/voices/khosrowababdi-neuroimaging.mp3), [voice2](https://github.com/majidsaberi/1st-HPCinNS/blob/master/voices/saberi-connecting-to-server.mp3))  <br/>
 
 ## Participants:
 Ali Yousefian, Ali-Akbar Attari, Ali-Reza Kheir-Abadi, Behrouz Nobakhsh, Behzad Mehrzad, Forough Najafi, Hengameh Marzbani, Mohammad-Ali Kar-Andish
