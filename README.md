@@ -1,5 +1,5 @@
 # 1st-HPCinNS
-1st High-Performance Computing in Neuroscience
+1st Workshop on High-Performance Computing in Neuroscience
 
 ## Description:
 In this one day workshop, participants were acquainted with the concept of parallel processing. They learned to use the Linux command line and NBML computational state of the art in a hands-on approach. Lectures also explained some application of HPC in computational neuroscience. We conducted the workshop as an introductory for the next comprehensive events. 
