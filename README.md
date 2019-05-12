@@ -20,7 +20,7 @@ Saeed-Reza Kherad-Pisheh (Shahid Beheshti University)  <br/>
 Sara Aghvami (University of Tehran)
 
 ## Lectures: 
-An introduction to Linux (Alireza Vafaei) <br/>
+An introduction to Linux (Alireza Vafaei) ([slide](https://github.com/majidsaberi/1st-HPCinNS/blob/master/lectures/2-vafaei-linux.pdf), [voice1](https://github.com/majidsaberi/1st-HPCinNS/blob/master/voices/vafaei-linux-intro.mp3), [voice2](https://github.com/majidsaberi/1st-HPCinNS/blob/master/voices/vafaei-linux-practical.mp3))  <br/>
 Theory of parallel processing (Alireza Vafaei) <br/>
 Graphical based parallel processing (Saeed-Reza Kherad-Pisheh) <br/>
 Parallel processing in deep learning (Saeed-Reza Kherad-Pisheh) <br/>
